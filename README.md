@@ -1,16 +1,30 @@
-### Hi there 👋
+# Oein
+### Live in Korea
+### Student
+### Learning programing
 
-<!--
-**Oein/Oein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Computers
+### 💻 M1 Mac
+##### 8GB
+### 🖥 Raspberry Pi4
+##### 4GB
+##### 24 Running
+##### With Cooler
+##### 2TB of HDD
 
-Here are some ideas to get you started:
+# Languages
+### 1. Korea
+### 2. English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Code Languages
+### 1. C++
+### 2. Node.js
+### 3. Kotlin
+### 4. C
+### 5. Python
+
+# Things that I love
+### 👨‍👩‍👧‍👦 Family
+### 🙋🏻 Friends
+### 💰 Money
+### 💻 Computers
