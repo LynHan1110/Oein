@@ -14,15 +14,15 @@
 <table>
   <tr>
     <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oein&show_icons=true&locale=en&layout=compact" alt="oein" /></p>
+      <p><img align="left" style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=oein&show_icons=true&locale=en&layout=compact" alt="oein" /></p>
     </td>
     <td>
-      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Oein&border_radius=10" alt="Oein" /></p>
+      <p><img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Oein&border_radius=10" alt="Oein" /></p>
     </td>
   </tr>
   <tr>
      <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oein&show_icons=true&locale=en" alt="oein" /></p>
+      <p>&nbsp;<img align="center" style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=oein&show_icons=true&locale=en" alt="oein" /></p>
     </td>
   </tr>
  </table>
