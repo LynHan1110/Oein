@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oein</h1>
-<h3 align="center">A teenage student in South Korea.</h3>
+<h3 align="center">A teenage student in South Korea🇰🇷.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oein&label=Profile%20views&color=0e75b6&style=flat" alt="oein" /> </p>
 
@@ -17,3 +17,5 @@
 <p><a href="https://www.buymeacoffee.com/oein0219l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oein0219l" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oein&show_icons=true&locale=en&layout=compact" alt="oein" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oein&" alt="oein" /></p>
