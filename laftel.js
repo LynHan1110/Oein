@@ -1,3 +1,5 @@
+console.log("Oein의 코드 실행중");
+
 var uo = Object.defineProperty,
   lo = Object.defineProperties;
 var co = Object.getOwnPropertyDescriptors;
