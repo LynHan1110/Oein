@@ -1,0 +1,52 @@
+{
+    "id": 5842564,
+    "img": "https://image.laftel.net/etc/no_image.png",
+    "last_login": "2023-02-27T18:24:25.026302",
+    "username": "5824033_kwlcks",
+    "first_name": "",
+    "last_name": "",
+    "email": "kwlcks052711@gmail.com",
+    "verified_email": "kwlcks052711@gmail.com",
+    "date_joined": "2022-08-16T12:08:12.790267",
+    "content": null,
+    "url": null,
+    "gender": "male",
+    "age": null,
+    "birth_year": null,
+    "country": null,
+    "occupation": null,
+    "lang": null,
+    "is_email": false,
+    "email_agreement_datetime": null,
+    "is_agree_to_terms": true,
+    "account_types": [
+        "email"
+    ],
+    "asset_point": 0,
+    "asset_period": null,
+    "asset_limited_point": 0,
+    "asset_limited_point_end_date": null,
+    "has_password": true,
+    "certified": true,
+    "is_adult": false,
+    "has_pay_password": true,
+    "referral_code": null,
+    "cnt_referral_set": 0,
+    "free_trial": false,
+    "devices": {
+        "app": {
+            "ios": 16,
+            "android": 4
+        },
+        "web": {
+            "linux": 9,
+            "iphone": 3,
+            "macintosh": 65,
+            "windows nt 10.0": 18
+        }
+    },
+    "premium_level": {
+        "level": 2,
+        "name": "가입했덕"
+    }
+}
