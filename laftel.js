@@ -4558,7 +4558,7 @@ function S0({ onClose: e }) {
                   ref: t,
                   playsInline: !0,
                   disablePictureInPicture: !0,
-                  "x-webkit-airplay": "deny",
+                  "x-webkit-airplay": "allow",
                   onPlay: q,
                   onPause: H,
                   children: a("source", { src: C.url }),
