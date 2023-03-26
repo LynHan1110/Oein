@@ -4069,14 +4069,15 @@ function g0() {
     [t, r] = n.exports.useState(C1),
     o = n.exports.useCallback(async () => {
       try {
-        await U1(
-          "https://asset.laftel.net/static/assets/googleads-advertisement.js"
-        );
-        let oein_____docu = document.createElement("div");
-        oein_____docu.id = h0;
-        document.body.appendChild(oein_____docu);
-        const i = document.getElementById(h0);
         try {
+          await U1(
+            "https://asset.laftel.net/static/assets/googleads-advertisement.js"
+          );
+          let oein_____docu = document.createElement("div");
+          oein_____docu.id = h0;
+          document.body.appendChild(oein_____docu);
+          const i = document.getElementById(h0);
+
           if (i) (C1 = !0), r(!0), i.remove();
         } catch (e) {
           console.error(e);
