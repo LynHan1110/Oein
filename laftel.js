@@ -4069,20 +4069,18 @@ function g0() {
     [t, r] = n.exports.useState(C1),
     o = n.exports.useCallback(async () => {
       try {
+        // try 안에 try로 ftry에 에러 감지 안되게
         try {
-          await U1(
-            "https://asset.laftel.net/static/assets/googleads-advertisement.js"
-          );
           let oein_____docu = document.createElement("div");
           oein_____docu.id = h0;
           document.body.appendChild(oein_____docu);
           const i = document.getElementById(h0);
-
-          if (i) (C1 = !0), r(!0), i.remove();
         } catch (e) {
+          // 오류만 출력
           console.error(e);
         }
       } catch {
+        // Error시 alert 하고 redirect
         alert(
           "AD Block\uC744 \uBE44\uD65C\uC131\uD654\uD558\uACE0 \uC774\uC6A9\uD574\uC8FC\uC138\uC694"
         ),
