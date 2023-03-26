@@ -932,7 +932,7 @@ const Ai = m.div`
   i9 =
     "\uC791\uD488 \uAC10\uC0C1\uC744 \uC704\uD574 \uAD6C\uB9E4\uAC00 \uD544\uC694\uD574\uC694.",
   s9 =
-    "\uAD11\uACE0\uAC00 \uB05D\uB09C \uD6C4 \uC0AC\uC6A9\uD560 \uC218 \uC788\uC5B4\uC694.",
+    "oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694",
   a9 =
     "\uC131\uC778\uC778\uC99D \uD6C4 \uC0AC\uC6A9\uD560 \uC218 \uC788\uC5B4\uC694.",
   u9 = "\uB85C\uADF8\uC778 \uD6C4 \uC0AC\uC6A9\uD560 \uC218 \uC788\uC5B4\uC694",
@@ -8451,15 +8451,14 @@ var $4 =
 const k4 = {
   avod: {
     title:
-      "\uC5B4\uCC28\uD53C \uD560 \uB355\uC9C8, \uAD11\uACE0 \uC5C6\uC774 \uCF8C\uC801\uD558\uAC8C",
-    description: `\uB77C\uD504\uD154 \uBA64\uBC84\uC2ED\uC73C\uB85C \uAD11\uACE0\uC5D0 \uBC29\uD574 \uBC1B\uC9C0 \uC54A\uACE0 \uAC10\uC0C1\uD574\uBCF4\uC138\uC694.
-\uD55C\uC77C \uB3D9\uC2DC\uBC29\uC601 \uC2E0\uC791\uBD80\uD130 \uC5ED\uB300 \uC778\uAE30 \uC560\uB2C8\uAE4C\uC9C0 \uBB34\uC81C\uD55C!`,
+      "oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694",
+    description: `oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694`,
   },
   pip: {
     title:
-      "PIP \uBAA8\uB4DC\uB97C \uD65C\uC131\uD654 \uD558\uACE0 \uC2F6\uC73C\uC2E0\uAC00\uC694?",
+      "PIP oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694",
     description:
-      "\uB77C\uD504\uD154 \uBA64\uBC84\uC2ED\uC73C\uB85C  PIP \uBAA8\uB4DC\uB97C \uC0AC\uC6A9\uD558\uC5EC \uC601\uC0C1\uC744 \uAC10\uC0C1\uD558\uC138\uC694. \uB2E4\uB978 \uCC3D\uC73C\uB85C \uC774\uB3D9\uD574\uB3C4 \uB04A\uAE40 \uC5C6\uC774 \uC7AC\uC0DD\uB429\uB2C8\uB2E4.",
+      "PIP oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694",
   },
 };
 function B4({ visible: e, onClose: t, mode: r }) {
@@ -9742,7 +9741,7 @@ function b5({ visible: e }) {
         children: [
           y(L5, {
             children: [
-              "\uAD11\uACE0\uC5C6\uC774 \uACE0\uD654\uC9C8\uB85C \uB04A\uAE40\uC5C6\uC774 \uAC10\uC0C1\uD574\uBCF4\uC138\uC694!",
+              "oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694",
               a(A5, {
                 children: r
                   ? "\uBA64\uBC84\uC2ED \uBB34\uB8CC\uCCB4\uD5D8"
@@ -10633,8 +10632,8 @@ function X5({ onToggleFullscreen: e, isFullscreen: t }) {
           a(aa, {
             $isVisibleControl: Oe,
             children:
-              "\uC7A0\uC2DC \uD6C4 \uAD11\uACE0\uAC00 \uC2DC\uC791\uB429\uB2C8\uB2E4.",
-          }),
+              "oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694",
+          }), // 잠시후 광고가 시작됩니다.
         a(rr, {
           children:
             Oe &&
@@ -12317,7 +12316,7 @@ function Ga() {
   (o == null ? void 0 : o.is_avod) &&
     !o.is_free &&
     (C +=
-      " \uBA64\uBC84\uC2ED \uACB0\uC81C \uC5C6\uC774 \uAD11\uACE0 \uBCF4\uACE0 \uBB34\uB8CC \uBCF4\uAE30\uB3C4 \uAC00\uB2A5\uD574\uC694!(\uC5D0\uD53C\uC18C\uB4DC \uBB34\uC81C\uD55C)"),
+      " oein\uC774\uAC00\20\uB9CC\uB4E0\20\uCF54\uB4DC\uAC00\20\uC791\uB3D9\uD558\uACE0\20\uC788\uC5B4\uC694"),
     o.description
       ? (C += ` ${o.description}`)
       : (C +=
